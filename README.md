@@ -25,6 +25,10 @@ SQL Server served as the centralized relational database. Microsoft Access was u
 ## Data Source & Preparation
 The dataset used in this project was fictitious and generated using AI to simulate realistic stroke encounters while avoiding the use of real patient data or PHI. Data cleaning and preprocessing were performed to ensure relational integrity and compatibility across SQL Server, Access, and Power BI.
 
+## Dashboard & Visualization
+![Power BI Dashboard Overview](dashboards/powerbi_dashboard_overview.jpg)
+
+
 ## My Role & Contributions
 - Generated a synthetic stroke dataset using ChatGPT
 - Cleaned and preprocessed data for SQL ingestion
